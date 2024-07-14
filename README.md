@@ -1,0 +1,2 @@
+# Summarify
+Text Summarizer Tool
